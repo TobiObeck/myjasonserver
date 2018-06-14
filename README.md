@@ -13,3 +13,5 @@ https://api.github.com/orgs/vuejs/repos
 
 Accessing a repo contents via the github API:
 https://api.github.com/repos/tobiobi/myjasonserver/contents/db.json
+https://api.github.com/users/tobiobi
+https://api.github.com/users/tobiobi/followers
