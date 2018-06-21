@@ -2,9 +2,9 @@
 
 ## My JSON Server
 
-https://my-json-server.typicode.com/
-http://jsonplaceholder.typicode.com 
-http://jsonplaceholder.typicode.com/posts
+- https://my-json-server.typicode.com/
+- http://jsonplaceholder.typicode.com 
+- http://jsonplaceholder.typicode.com/posts
 
 ### Resources
 - /posts 	100 items
@@ -26,21 +26,20 @@ http://jsonplaceholder.typicode.com/posts
 - DELETE 	/posts/1
 
 ## Data from this repository
-https://my-json-server.typicode.com/tobiobi/myjasonserver/coordinates
+- https://my-json-server.typicode.com/tobiobi/myjasonserver/coordinates
 
 ## Some Random user (including an image)
-https://randomuser.me/api/
+- https://randomuser.me/api/
 
 ## API for any github repository:
-https://api.github.com/orgs/dotnet/repos
-
-https://api.github.com/orgs/vuejs/repos
+- https://api.github.com/orgs/dotnet/repos
+- https://api.github.com/orgs/vuejs/repos
 
 Accessing a repo contents via the github API:
-https://api.github.com/repos/tobiobi/myjasonserver/contents/db.json
-https://api.github.com/users/tobiobi
-https://api.github.com/users/tobiobi/followers
+- https://api.github.com/repos/tobiobi/myjasonserver/contents/db.json
+- https://api.github.com/users/tobiobi
+- https://api.github.com/users/tobiobi/followers
 
 ## An online tool for JSON generation
 lat, long. (type latitude, longitude)
-https://mockaroo.com/schemas/new
+- https://mockaroo.com/schemas/new
