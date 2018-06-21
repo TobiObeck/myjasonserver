@@ -1,4 +1,4 @@
-# A repository that collects different ressources and ways of JSON dummy data
+# Collection of different JSON dummy data ressources
 
 ## My JSON Server
 
@@ -25,13 +25,13 @@ http://jsonplaceholder.typicode.com/posts
 - PATCH 	/posts/1
 - DELETE 	/posts/1
 
-# Data from this repository
+## Data from this repository
 https://my-json-server.typicode.com/tobiobi/myjasonserver/coordinates
 
-# Some Random user (including an image)
+## Some Random user (including an image)
 https://randomuser.me/api/
 
-# API for any github repository:
+## API for any github repository:
 https://api.github.com/orgs/dotnet/repos
 
 https://api.github.com/orgs/vuejs/repos
