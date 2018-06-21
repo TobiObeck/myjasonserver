@@ -28,9 +28,18 @@
   "profile": {
     "name": "typicode"
   },
-  "geodata":{
-    points: [
-      8, 10
-    ]
-  }
+  "coordinates":[
+    {
+      "lat": 1,
+      "long": 2
+    },
+    {
+      "lat": 1,
+      "long": 2
+    },
+    {
+      "lat": 1,
+      "long": 2
+    }
+  ],
 }
