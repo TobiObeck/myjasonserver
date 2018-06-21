@@ -28,4 +28,9 @@
   "profile": {
     "name": "typicode"
   }
+  "geodata":{
+    points: [
+      8, 10
+    ]
+  }
 }
