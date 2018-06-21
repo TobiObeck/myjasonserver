@@ -26,6 +26,7 @@
 - DELETE 	/posts/1
 
 ## Data from this repository
+- https://my-json-server.typicode.com/tobiobi/myjasonserver/db
 - https://my-json-server.typicode.com/tobiobi/myjasonserver/coordinates
 
 ## Some Random user (including an image)
