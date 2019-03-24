@@ -50,3 +50,27 @@ https://raw.githubusercontent.com/TobiObeck/myjasonserver/master/a-thousand-geo-
 ## An online tool for JSON generation
 lat, long. (type latitude, longitude)
 - https://mockaroo.com/schemas/new
+
+## Generating Geocoordinates with Excel
+
+**english** names of used german excel functions: randomrange, random. text concat. substitution.
+
+**german**
+
+=ZUFALLSBEREICH(-90;90) +ZUFALLSZAHL()
+
+=VERKETTEN("{ ""lat"": ";B10;", ""long"": ";C10; "},")
+
+=WECHSELN(WECHSELN(D10;",";".";1);",";".";2)
+
+
+
+**Example** (generate coords in german format, add object notation, replace commas with dots)
+
+42,23842006	-81,53421333
+
+{ "lat": 42,2384200584374, "long": -81,5342133317457},
+
+{ "lat": 42.2384200584374, "long": -81.5342133317457},
+
+
