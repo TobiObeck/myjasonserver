@@ -38,9 +38,14 @@
 
 Accessing a repo contents via the github API:
 - https://api.github.com/repos/tobiobi/myjasonserver/contents/db.json
-https://raw.githubusercontent.com/TobiObeck/myjasonserver/master/db.json
+- https://raw.githubusercontent.com/TobiObeck/myjasonserver/master/db.json
 - https://api.github.com/users/tobiobi
 - https://api.github.com/users/tobiobi/followers
+
+## 
+Example for usage of git files
+https://jsfiddle.net/tobiobeck/27z3u8cx/
+https://raw.githubusercontent.com/TobiObeck/myjasonserver/master/a-thousand-geo-coords.json
 
 ## An online tool for JSON generation
 lat, long. (type latitude, longitude)
