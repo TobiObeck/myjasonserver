@@ -1,5 +1,8 @@
 # Collection of different JSON dummy data ressources
 
+## JSON Server for local development (has to be installed via npm)
+- https://github.com/typicode/json-server
+
 ## My JSON Server
 
 - https://my-json-server.typicode.com/
