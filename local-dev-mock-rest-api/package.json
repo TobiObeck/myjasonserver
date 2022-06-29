@@ -1,0 +1,15 @@
+{
+    "name": "local-dev-mock-rest-api",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {        
+        "start:dev": "json-server -p 3001 --watch src/generate.js",
+        "start:dev-routes": "json-server -p 3001 --watch src/generate.js --routes src/routes.json"
+    },
+    "dependencies": {
+        "lodash": "^4.17.21"
+    },
+    "devDependencies": {
+        "@faker-js/faker": "^7.3.0"
+    }
+}
